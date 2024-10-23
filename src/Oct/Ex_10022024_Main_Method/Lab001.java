@@ -1,4 +1,4 @@
-package Oct.ex10022024_MainMethod;
+package Oct.Ex_10022024_Main_Method;
 
 public class Lab001 {
     public static void main(String[] args) {
