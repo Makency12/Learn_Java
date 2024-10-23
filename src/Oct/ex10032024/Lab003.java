@@ -5,7 +5,7 @@ public class Lab003 {
         System.out.println("10+2 = 12");
         System.out.println("10-2 = 8");
         System.out.println("10*2 = 20");
-        System.out.println("10/2 = 5");
+        System.out.println("10/2 = 5.");
 
 
     }
